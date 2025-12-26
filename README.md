@@ -1,6 +1,6 @@
-Abhishek Patil 👋
+ Abhishek Patil 👋
 
-Software Engineer, currently pursuing a Master’s degree at Texas A&M University and seeking Summer 2026 internships in Software, AI, and Data Engineering.
+Software Engineer, currently pursuing a Master’s degree at Texas A&M University 
 
 I specialize in scaling Agentic AI from research prototypes to production-grade distributed systems. With 3+ years of experience at Veritas (Cohesity), I have a proven track record of architecting high-availability backends and enterprise data protection platforms.
 
